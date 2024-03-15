@@ -1,2 +1,4 @@
 # home-lab
-Miscellanea
+
+A repository for partially organized or unorganized code.
+
